@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sparrow.cardapp.uat",
+      "sha256_cert_fingerprints":
+        ["27:ED:54:0B:11:BE:26:28:75:FA:FF:EB:FA:CB:AF:76:42:38:52:51:24:30:69:FF:34:58:6B:86:4E:6B:62:C8"]
+    }
+  }
+]
