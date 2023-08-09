@@ -4,7 +4,7 @@
       "details": [
       {
         "appID": "M842U45PJ9.com.sparrow.cardapp.uat",
-        "paths": ["*"]
+        "paths": ["/home/*"]
       }
     ]
   }
