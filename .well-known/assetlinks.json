@@ -7,5 +7,14 @@
       "sha256_cert_fingerprints":
         ["27:ED:54:0B:11:BE:26:28:75:FA:FF:EB:FA:CB:AF:76:42:38:52:51:24:30:69:FF:34:58:6B:86:4E:6B:62:C8"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sparrow.cardapp.uat",
+      "sha256_cert_fingerprints":
+        ["B2:97:AF:43:10:B0:AA:CD:E7:0C:16:92:BD:15:C6:F3:DC:7C:63:47:44:81:A4:05:61:67:11:6D:24:95:8A:0F"]
+    }
   }
 ]
