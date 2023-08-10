@@ -4,7 +4,11 @@
       "details": [
       {
         "appID": "M842U45PJ9.com.sparrow.cardapp.uat",
-        "paths": ["/home/*"]
+        "paths": ["/link/*"]
+      },
+      {
+        "appID": "9V48W5473S.com.sparrowcard.app.live",
+        "paths": ["/link/*"]
       }
     ]
   }
